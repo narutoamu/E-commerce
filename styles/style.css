@@ -1,0 +1,188 @@
+
+body
+{
+background :yellow;
+}
+.main_wrapper
+{
+	width:1195px;
+	height:auto;
+	margin:0px;
+	background:black;
+	
+}
+.header_wrapper
+{
+	width:1195px;
+	height:150px;
+	margin:auto;
+}
+#logo
+{
+	float:left;
+	height:120px;
+}
+#banner
+{
+	float:right;
+	height:120px;
+	
+}
+.menubar
+{
+	width:1195px;
+	height:80px;
+	color:white;
+	background:blue;
+	
+}
+
+.content_wrapper
+{
+	
+  width:1195px;
+  height:auto;
+  margin:0px;
+  background:black;
+}
+#content_area
+{
+	width:965px;
+
+	float:left;
+	background:orange;
+	
+}
+#sidebar
+{width:230px;
+height:740px;
+	float:left;
+	background:black;
+	
+}
+#footer{
+	width:1195px;
+	height:100px;
+	float:right;
+	background:blue;
+	
+}
+#menu{
+	padding:0px;
+	margin:0px;
+	line-height:35px;
+}
+#menu li{list-style:none;
+display:inline;}
+#menu a{
+	text-decoration:none;
+	color:white;
+	padding:8px;
+	margin:3px;
+	font-size:18px;
+	font-family:comic Sans ms;
+}
+#menu a:hover
+{
+	color:orange;
+	font-weight:bolder;
+	text-decoration:underline;
+	
+}
+#form{
+	float:right;
+
+padding-right:6px;
+line-height:35px;
+}
+#sidebar_title
+{
+	background:white;
+	color:black;
+	font-size:22px; 
+	font-family:comic Sans ms;
+    padding:10px;	
+	text-align:center;
+}
+#cats{
+	text-align:center;
+}
+#cats li
+{
+	list-style:none;
+
+	
+} 
+#cats a{color:white; padding:10spx;
+margin:5px;
+text-align:center;
+font-size:18px;
+text-decoration:none;
+font-family:comic sans ms;
+
+}
+#cats a:hover
+{color:orange ;
+font-weight:bolder;
+text-decoration:underline;
+color:	
+}
+#sidebar_title
+{
+	background:white;
+	color:black;
+	font-size:22px; 
+	font-family:comic Sans ms;
+	text-decoration:none;
+    padding:10px;	
+	text-align:center;
+}
+#cats{
+	text-align:center;
+}
+#cats li
+{
+	list-style:none;
+
+	
+} 
+#cats a{color:white; padding:10spx;
+margin:5px;
+text-align:center;
+font-size:18px;
+text-decoration:none;
+font-family:comic sans ms;
+
+}
+#cats a:hover
+{color:orange ;
+font-weight:bolder;
+text-decoration:underline;
+color:	
+}
+#products_box
+{
+	width:780px;
+	text-align:center;
+	margin-left:30px;
+	margin-bottom:10px;
+}
+#shopping_cart
+{
+	width:965px;
+	height:50px;
+	background:black; 
+	color:white;
+	
+	
+}
+#single_product
+{
+	float:left;
+	margin-left:20px;
+	padding:10px;
+	
+}
+#single_product img{
+	  border:2px solid black;
+}
